@@ -1,16 +1,30 @@
-### Hi there 👋
+Bem Vindo! Meu nome é Pietro, fique a vontade.
+Welcome! My name is Pietro, feel free to look around.
 
-<!--
-**PiSbards/PiSbards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🥽 Atualmente estou estudando no Senai, cursando Técnico em
+Desenvolvimento de Sistema
+- 🤔 Estou aprendendo as linguagens:
+  C#;
+  C ;
+  Python;
+  Java;
+- 🕹 Aprendendo também sobre o Arduino
+- <div style="display: inline_block"><br>
+  
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+  <img img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+          
+           
+          
+  
+</div>
+- 📘 Sou apenas um Calouro na programação
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![](https://github-readme-stats.vercel.app/api?username=PiSbardsforne&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PiSbardsforne&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-profile-trophy.vercel.app/?username=PiSbardsforne&theme=discord&no-frame=false&no-bg=true&margin-w=4)
