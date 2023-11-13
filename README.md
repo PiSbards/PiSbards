@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bem Vindo! Meu nome é Pietro, fique a vontade;<br>Welcome! My name is Pietro, feel free to look around;<br><br>-  Atualmente estou estudando no Senai, cursando Técnico em<br>Desenvolvimento de Sistema<br>- Estou aprendendo as linguagens:<br>  C#;<br>  C ;<br>  Python;<br>  Java;<br>-  Aprendendo um pouco também sobre o IoT e microcontroladores;
+Bem Vindo! Meu nome é Pietro, fique a vontade;<br>Welcome! My name is Pietro, feel free to look around;<br><br>-  Atualmente estou estudando no Senai, cursando Técnico em<br>Desenvolvimento de Sistema<br>- Estou aprendendo as linguagens:<br>  C#;<br>  C++ ;<br>  Python;<br>  Java;<br>-  Aprendendo um pouco também sobre o IoT e microcontroladores;
 
 
 ## 🌐 Socials:
