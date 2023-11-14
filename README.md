@@ -8,7 +8,7 @@ C++ ;<br>
 Python;<br>
 Java;<br>
 - Aprendendo e descobrindo mais sobre DB/BD e SQL
-- <br>-  Aprendendo um pouco também sobre o IoT e microcontroladores;<br>
+-  Aprendendo um pouco também sobre o IoT e microcontroladores;<br>
 - 📘 Sou apenas um Calouro na programação
 
 
