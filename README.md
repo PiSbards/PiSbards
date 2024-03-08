@@ -1,7 +1,7 @@
 # 💫 About Me:
 Bem Vindo! Meu nome é Pietro, fique a vontade;
 <br>Benvenuto! Mi chiamo Pietro, sentiti libero di fare come desideri;<br>
-<br>Welcome! My name is Pietro, feel free to look around;<br>
+Welcome! My name is Pietro, feel free to look around;<br>
 <br>-  Atualmente estou estudando no Senai, cursando Técnico em<br>Desenvolvimento de Sistema<br>
 - Estou aprendendo as linguagens:<br>
 C#;<br>
