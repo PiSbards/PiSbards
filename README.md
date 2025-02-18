@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bem Vindo! Meu nome é Pietro, fique a vontade;<br>Benvenuto! Mi chiamo Pietro, sentiti libero di fare come desideri;<br>Welcome! My name is Pietro, feel free to look around;<br><br>- Técnico em Desenvolvimento de Sistemas<br>Tenho conhecimentos sobre as linguagens:<br>C#.NET;<br>Java;<br>JS;<br>HTML CSS;<br>Python<br>--------------------------------------------<br>Aprendendo e descobrindo mais sobre DB/BD e SQL<br>Leve conhecimento sobre o IoT e microcontroladores;<br>📘 Sou apenas um Calouro na programação
+Bem Vindo! Meu nome é Pietro, fique a vontade;<br>Benvenuto! Mi chiamo Pietro, sentiti libero di fare come desideri;<br>Welcome! My name is Pietro, feel free to look around;<br><br>- Técnico em Desenvolvimento de Sistemas<br>Tenho conhecimentos sobre as linguagens:<br>C#.NET;<br>Java;<br>JS;<br>HTML CSS;<br>Python<br>MySQL<br>--------------------------------------------<br>📘 Sou apenas um Calouro na programação
 
 
 ## 🌐 Socials:
